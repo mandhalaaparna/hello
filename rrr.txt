@@ -3,5 +3,10 @@ hell
 chfd
 aaa
 sss
+<<<<<<< HEAD
 srett
 
+=======
+gdt
+kjic
+>>>>>>> 9bc1fc63a0cf6669d245098d27f7496d346ecd48
